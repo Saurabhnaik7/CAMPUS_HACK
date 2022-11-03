@@ -1,0 +1,8 @@
+{
+    "mongoURI":"mongodb+srv://Naik1234:Naik1234@campushack.cmyxo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"e3d268b7e8421fbfe550",
+    "githubSecret":"b334290f2eb3d0978fb39fc10de37dea70aa96b2",
+    "githubToken":"b334290f2eb3d0978fb39fc10de37dea70aa96b2"
+
+}
